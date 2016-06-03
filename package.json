@@ -14,5 +14,9 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/Onwa2014/bees/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
   }
 }
